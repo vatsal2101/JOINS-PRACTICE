@@ -55,6 +55,3 @@ SELECT Students.name, Courses.course_name
 FROM Students
 RIGHT JOIN Courses ON Students.course_id = Courses.course_id;
 
-
-| shanya  | MSCIT       |
-+---------+-------------+
